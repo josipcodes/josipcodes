@@ -21,11 +21,12 @@
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 </p>
 
+### 💻 Codewars stats
+![Codewars](https://github.r2v.ch/codewars?user=josipcodes&top_languages=true&theme=gradient_dark_by_level)
+
 
 ### 💻 Get in touch
 <a href="https://https://www.linkedin.com/in/josip-potnar/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-
 
 
 <!--
